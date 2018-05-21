@@ -1,0 +1,1 @@
+web: echo This is an empty web command for Heroku.
